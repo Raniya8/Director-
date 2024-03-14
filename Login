@@ -5,9 +5,9 @@
 </head>
 <body>
     <h1>login  page</h1>
-    <p>raniya8:</p>
+    <p>Username:</p>
     <input name="raniya">
-    <p>12345678:</p>
+    <p>Password:</p>
     <input name="123456"> 
     <button>login</button>
 </body>
